@@ -5,3 +5,4 @@ Instukcje jak korzystać z naszego projektu
 3. Dodano pkt.3
 4. dodano pkt.4
 5. dodano pkt.5
+6. dodano pkt.6
